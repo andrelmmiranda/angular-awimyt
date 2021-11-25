@@ -9,4 +9,6 @@ export class AppComponent {
   name = 'Angular';
 
   outracoisa = 'Testando';
+
+  outroteste = 'testando branch';
 }
